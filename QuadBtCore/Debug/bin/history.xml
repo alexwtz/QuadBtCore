@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.6.3 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=QuadBtCore.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\QuadBtCore -TC:\CooCox\CoIDE\configuration\ProgramData\QuadBtCore/link.ld -g -L..\..\..\STM32F4-Discovery -lpdmfilter_gcc">
+      <target file="QuadBtCore.elf" lastModified="1402184ac9e">
+         <source file="..\obj\semihosting.o" lastModified="1402174f60e"/>
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="1402174f6ad"/>
+         <source file="..\obj\stm32f4_discovery_audio_codec.o" lastModified="1402174f7fe"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="1402174f8a3"/>
+         <source file="..\obj\stm32f4xx_dac.o" lastModified="1402174f926"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="1402174f96f"/>
+         <source file="..\obj\stm32f4_discovery.o" lastModified="1402174f9f4"/>
+         <source file="..\obj\main.o" lastModified="14021833ced"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="1402174fb53"/>
+         <source file="..\obj\printf.o" lastModified="1402184aa6e"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="1402174fc54"/>
+         <source file="..\obj\sh_cmd.o" lastModified="1402174fc74"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="1402174fcea"/>
+         <source file="..\obj\syscalls.o" lastModified="1402174fd48"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="1402174fdd4"/>
+         <source file="..\obj\stm32f4_discovery_callbacks.o" lastModified="1402174fe45"/>
+         <source file="..\obj\stm32f4xx_spi.o" lastModified="1402174fed8"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="1402174ff70"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="1402174ffe4"/>
+         <source file="..\obj\misc.o" lastModified="14021750061"/>
+         <source file="..\obj\stm32f4_discovery_lis302dl.o" lastModified="140217500f5"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="140217501e3"/>
+      </target>
+   </processor>
+</history>
